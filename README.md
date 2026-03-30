@@ -1,2 +1,12 @@
-# web-330
-Repository for WEB 330 Enterprise JavaScript II
+# WEB 330 Enterprise JavaScript II
+
+
+
+## Contributors
+
+
+
+\- Instructor: Richard Krasso
+
+\- Maxine Casillas
+

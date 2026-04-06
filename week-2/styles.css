@@ -1,0 +1,70 @@
+/*
+  Pragmatic JavaScript
+  Chapter 1
+  Programming Assignment
+
+  Author: Maxine Casillas
+  Date: 04/05/2026
+  Filename: styles.css
+*/
+
+body {
+  background: #2f241d;
+  font-family: "Garamond", "Georgia", serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+/* Scroll look */
+#scroll {
+  background: #f4e4bc;
+  padding: 30px;
+  width: 420px;
+  border: 8px solid #c2a878;
+  border-radius: 10px;
+  box-shadow: 0 0 25px rgba(0,0,0,0.6);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+input, select {
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #8b6f47;
+  background: #fffaf0;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px;
+  background: #5a3e2b;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+button:hover {
+  background: #7a543a;
+}
+
+#characterOutput {
+  margin-top: 20px;
+  padding: 15px;
+  background: #fff8dc;
+  border: 2px solid #c2a878;
+}
